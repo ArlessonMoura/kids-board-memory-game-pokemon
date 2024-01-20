@@ -1,7 +1,7 @@
 # Kids JavaScript "Match and Catch Pokemon" memory game
 
 <p align="center">
-  <img src="" alt="">
+  <img src="./src/images/pokemonFlyer.jpg" alt="Classic Pokemons Banner">
 </p>
 
 Welcome! In this repository you will find a game based on the famous anime "Pokemon". This project aims to demonstrate several advanced JavaScript game development techniques.
