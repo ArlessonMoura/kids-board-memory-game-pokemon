@@ -10,7 +10,7 @@ Welcome! In this repository you will find a game based on the famous anime "Poke
 
 - HTML5 and CSS3 for the structure and appearance of the game.
 - JavaScript for programming logic and interactivity.
-- Custom sprites and images to create the unique aesthetic of the Wreck-It Ralph universe.
+- Custom sprites and images to create the unique aesthetic of the Pokemon universe.
 
 ### How to play
 
