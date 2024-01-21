@@ -1,7 +1,7 @@
 let pokemonsCardsImg = [];
 
 async function fetchImagesUrlFirst151Pokemons() {
-  for (let i = 1; i <= 8; i++) {
+  for (let i = 1; i <= 14; i++) {
     const randomSelection = Math.floor(Math.random() * 151) + 1;
 
     const apiUrl = `https://pokeapi.co/api/v2/pokemon/${randomSelection}/`;
